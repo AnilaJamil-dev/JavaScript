@@ -99,3 +99,6 @@ console.log("2"+"3")*/            //inverted comas will combine the numbers it w
 // num++
 // ++num
 // console.log(num)
+
+
+     //DAY=02         
